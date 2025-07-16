@@ -1,0 +1,22 @@
+# Ignorar entorno virtual
+compCientEnv/
+
+# Ignorar archivos de caché y configuración
+__pycache__/
+*.pyc
+*.pyo
+
+# Presentaciones
+*.pptx
+*.ppt
+
+# PDFs
+*.pdf
+
+# Documentos
+*.docx
+*.doc
+*.tmp
+
+# Hojas de cálculo
+*.xlsx
